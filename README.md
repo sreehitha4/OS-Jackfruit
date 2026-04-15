@@ -8,12 +8,10 @@
 * **Institution:** Pes University
 * **Email:** sreehithakaranam@gmail.com
 
----
-# 🐳 OS Jackfruit - Container Runtime
 
 ## 👩‍💻 Student Details
 
-* **Name:** Khushi Patel
+* **Name:** KHUSHI PATEL
 * **SRN:** PES1UG24AM134
 * **Course:** Operating Systems 
 * **Institution:** Pes University
